@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ameli\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ameli\\.nuget\\packages"
+    ]
+  }
+}
